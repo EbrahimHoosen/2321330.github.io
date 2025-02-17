@@ -1,1 +1,1 @@
-I created a github account, made a repository and added files to the repository. i also deployed a web page
+I created a github account, made a repository and added files to the repository. I also deployed my web page
